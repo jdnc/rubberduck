@@ -3,5 +3,5 @@ rubberduck is based on the idea of [Rubberduck debugging] (https://en.wikipedia.
 
 Remember as Sherlock said "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth."
 
-Alonsy!
+Allons-y!
 
